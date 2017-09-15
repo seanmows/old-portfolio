@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sean Mowrey</title>
-    <link>https://seanmowz.github.io/</link>
-    <description>Recent content on Sean Mowrey</description>
+    <title>Blogs on Sean Mowrey</title>
+    <link>https://seanmowz.github.io/blog/</link>
+    <description>Recent content in Blogs on Sean Mowrey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>true</copyright>
     <lastBuildDate>Wed, 30 Aug 2017 17:07:20 -0700</lastBuildDate>
     
-	<atom:link href="https://seanmowz.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seanmowz.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,15 +22,6 @@
 Hello to all the readers out there if there are any.
 &amp;ldquo;Cricket&amp;rdquo;&amp;hellip;..&amp;ldquo;Cricket&amp;rdquo;
 Well anyways, today will be my last day in Vancouver before I head to University. I am filled with both excitement and anxiety of moving away but I&amp;rsquo;m sure everything will work out. This will be where I am going to start blogging and presenting myself. It may change in the future but for now this is all I could whip up in the short time before School.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://seanmowz.github.io/about/</link>
-      <pubDate>Wed, 30 Aug 2017 17:07:11 -0700</pubDate>
-      
-      <guid>https://seanmowz.github.io/about/</guid>
-      <description>Hi my name is Sean Mowrey and I am a Honors Mechanical Engineering Student at the University of Waterloo. I&amp;rsquo;m from the west coast but am a Calgary Flames(2018 Stanley Cup Champions just in case you didn&amp;rsquo;t know) fan. My favorite sport is Hockey which I played competitively up until Junior B a few years ago. Now I can be found at the weight room and ping pong tables of my residence.</description>
     </item>
     
   </channel>
